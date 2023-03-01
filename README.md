@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm artyom</h1>
 <h3 align="center">A passionate frontend developer from Armenia</h3>
-<img align="right" alt="Coding" width"400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif">
+<img align="right" alt="Coding" width"400" src="\Users\PK\Desktop\68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b653.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artyom166&label=Profile%20views&color=0e75b6&style=flat" alt="artyom166" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
